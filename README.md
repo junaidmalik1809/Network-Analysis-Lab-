@@ -11,10 +11,10 @@ This lab demonstrates foundational network traffic analysis skills using Wiresha
 
 | Protocol | Description | Screenshot |
 |----------|-------------|------------|
-| ICMP     | Captured echo requests and replies using `ping` to 8.8.8.8 | [icmp.png](screenshots/icmp.png) |
-| DNS      | Captured domain resolution using `dig` / `nslookup` for `google.com` | [dns.png](screenshots/dns.png) |
-| HTTP     | Captured GET requests and 200 OK responses using `curl http://neverssl.com` | [http.png](screenshots/http.png) |
-| TCP SYN  | Captured TCP connection initiation using `telnet google.com 80` | [tcp-syn.png](screenshots/tcp-syn.png) |
+| ICMP     | Captured echo requests and replies using `ping` to 8.8.8.8 
+| DNS      | Captured domain resolution using `dig` / `nslookup` for `google.com` 
+| HTTP     | Captured GET requests and 200 OK responses using `curl http://neverssl.com` 
+| TCP SYN  | Captured TCP connection initiation using `telnet google.com 80` 
 
 ## 📝 Documentation
 
