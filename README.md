@@ -18,7 +18,7 @@ This lab demonstrates foundational network traffic analysis skills using Wiresha
 
 ## 📝 Documentation
 
-See [`protocol-analysis.md`](protocol-analysis.md) for detailed breakdowns of each protocol observed and insights from the captured traffic.
+See [`protocol=analysis.md`](protocol=analysis.md) for detailed breakdowns of each protocol observed and insights from the captured traffic.
 
 ## 🎯 Outcome
 
